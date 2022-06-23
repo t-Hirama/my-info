@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="m-0 min-h-screen">ローカルホストが立ち上がりました</main>
+      <main className="m-0 min-h-screen">Hello World</main>
     </div>
   );
 };
