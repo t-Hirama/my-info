@@ -15,7 +15,6 @@ const Home: NextPage = () => {
         <h1 className="text-4xl pl-99">ひらまのホームページ</h1>
         <h1 className="mt-8 text-2xl font-semibold">プロフィール</h1>
 
-        <h2>プロフィール</h2>
         <ul>
           <li>2000年9月13日生まれ</li>
           <li>おとめ座</li>
